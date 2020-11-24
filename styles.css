@@ -1,0 +1,72 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+  margin-left: 200px;
+  margin-right: 100px;
+}
+body{
+    background-image: url('https://bestanimations.com/media/dice/431930747rolling-dice-gif-7.gif');
+    background-size: cover;
+    font-family: 'Roboto Slab', serif;
+
+/* https://bestanimations.com/media/dice/431930747rolling-dice-gif-7.gif */
+/* https://contenthub-static.grammarly.com/blog/wp-content/uploads/2016/07/dice.gif */
+    /* height: 100vh;
+    padding:0;
+    margin:0; */
+}
+.navbar-brand{
+  margin: auto;
+  font-size: 1.5rem;
+}
+.buttonClick{
+  padding-top: 10px;
+}
+.dice {
+  text-align: center;
+  display: inline-block;
+  margin: 25px 50px 75px 100px;
+}
+
+body {
+  background-color: #393E46;
+}
+
+h1 {
+  margin: 30px;
+  /* font-family: 'Lobster', cursive; */
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: white;
+  font-size: 4rem;
+}
+
+p {
+  font-size: 2rem;
+  color: white;
+  /* font-family: 'Indie Flower', cursive; */
+}
+
+img {
+  width: 80%;
+}
+.img1{
+  width: 250px;
+}
+.img1:hover{
+  opacity: 0.8;
+}
+.img2:hover{
+  opacity: 0.8;
+}
+.img2{
+  width: 250px;
+}
+
+footer {
+  color: #EEEEEE;
+  text-align: center;
+  /* font-family: 'Indie Flower', cursive; */
+
+}
